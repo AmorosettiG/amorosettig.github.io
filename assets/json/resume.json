@@ -56,6 +56,27 @@
       "endDate": "1905-01-01",
       "score": "10",
       "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "Université Toulouse III - Paul Sabatier,",
+      "location": "Toulouse, France",
+      "url": "https://www.univ-tlse3.fr/",
+      "area": "Software Development",
+      "studyType": "B.Sc. in Physics "Licence Parcours Spécial Physique"",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "Lycée de La Borde Basse",
+      "location": "Castres, France",
+      "url": "https://borde-basse.mon-ent-occitanie.fr/",
+      "studyType": "High School diploma in sciences (Scientific Baccalaureate)",
+      "startDate": "2014-09",
+      "endDate": "2017-06",
+      "score": "With honors",
+      "courses": ["European Section (English)", "Engineering Sciences specialty", "mathematics option"]
     }
   ],
   "awards": [
@@ -151,13 +172,18 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "C1 (IELTS, 24/08/2023)",
+      "icon": ""
+    },
+    {
+      "language": "Italian",
+      "fluency": "A2",
       "icon": ""
     }
   ],
