@@ -92,6 +92,53 @@
       "courses": ["European Section (English)", "Engineering Sciences specialty", "mathematics option"]
     }
   ],
+  "Research events": [
+    {
+      "institution": "University of Zurich, Zurich, Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "<b>SUM</b>mer <b>TRAI</b>ning <b>C</b>ourse",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "Université Toulouse III - Paul Sabatier,",
+      "location": "Toulouse, France",
+      "url": "https://www.univ-tlse3.fr/home",
+      "area": "Software Development",
+      "studyType": "M.Sc. in Plasma Physics",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"],
+      "summary": "<b>First year</b> of Plasma Physics degree with theoretical and experimental courses about plasmas and their applications"
+    },
+    {
+      "institution": "Université Toulouse III - Paul Sabatier,",
+      "location": "Toulouse, France",
+      "url": "https://www.univ-tlse3.fr/home",
+      "area": "Software Development",
+      "studyType": "B.Sc. in Physics, Licence Parcours Spécial Physique",
+      "startDate": "2018-01-01",
+      "endDate": "2022-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"],
+      "summary": "Bachelor degree with major in physics and minor in mathematics, specifically aimed towards research, with several projects and lab activities supervised by researchers, completed by a research internship during the last semester"
+    },
+    {
+      "institution": "Lycée de La Borde Basse",
+      "location": "Castres, France",
+      "url": "https://borde-basse.mon-ent-occitanie.fr/",
+      "studyType": "High School diploma in sciences (Scientific Baccalaureate)",
+      "startDate": "2014-09",
+      "endDate": "2017-06",
+      "score": "With honors",
+      "courses": ["European Section (English)", "Engineering Sciences specialty", "mathematics option"]
+    }
+  ],
   "awards": [
     {
       "title": "Nobel Prize in Physics",
