@@ -78,7 +78,8 @@
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Theory of Relativity"],
+      "summary": "Bachelor degree with major in physics and minor in mathematics, specifically aimed towards research, with several projects and lab activities supervised by researchers, completed by a research internship during the last semester"
     },
     {
       "institution": "Lycée de La Borde Basse",
@@ -100,13 +101,14 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [
+  "Research events": [
     {
-      "name": "Machine Learning",
+      "name": "<b>SUM</b>mer <b>TRAI</b>ning <b>C</b>ourse",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-location-dot",
+      "location": "Institute of Plasma Physics of the Czech Academy of Sciences, Prague, Czech Republic"
     },
     {
       "name": "Quantum Computing",
