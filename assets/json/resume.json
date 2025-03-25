@@ -62,6 +62,18 @@
       "location": "Toulouse, France",
       "url": "https://www.univ-tlse3.fr/home",
       "area": "Software Development",
+      "studyType": "M.Sc. in Plasma Physics",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"],
+      "summary": "<b>First year</b> of Plasma Physics degree with theoretical and experimental courses about plasmas and their applications"
+    },
+    {
+      "institution": "Université Toulouse III - Paul Sabatier,",
+      "location": "Toulouse, France",
+      "url": "https://www.univ-tlse3.fr/home",
+      "area": "Software Development",
       "studyType": "B.Sc. in Physics, Licence Parcours Spécial Physique",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
